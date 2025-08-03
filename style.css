@@ -24,7 +24,7 @@ body {
     margin: 0;
     padding: 0;
     height: 100%;
-    background-image:linear-gradient(var(--color-pink), var(--color-pink));
+    background-image: linear-gradient(#cceeff, #aaddff); /* blue gradient */
 }
 #wrapper{
     position: relative;
